@@ -1,7 +1,3 @@
-//Title: Ingredient.h
-//Author: Jeremy Dixon, edited by Gabe Doersam
-//Date: 2/10/23
-//Description: This is part of the PotionCraft project in CMSC 202 @ UMBC
 
 #ifndef INGREDIENT_H //Include/Header Guard
 #define INGREDIENT_H //Include/Header Guard
